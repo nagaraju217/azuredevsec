@@ -1,0 +1,1 @@
+this is automatic script for frontend servere
